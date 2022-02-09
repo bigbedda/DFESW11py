@@ -19,8 +19,7 @@ myName = input()
 var1 = input('Who loves orange soda? ')
 if myName == 'kel':
     soda()
-else:
-    print(myName + 'loves orange soda')
+
 
 
 
