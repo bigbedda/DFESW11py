@@ -15,10 +15,12 @@ def soda():
 #    piesprint()
 
 
-myName = input()
+
 var1 = input('Who loves orange soda? ')
-if myName == 'kel':
+if var1 == 'kel':
     soda()
+else:
+    print(var1 + ' loves orange soda')
 
 
 
